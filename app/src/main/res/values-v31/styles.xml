@@ -6,7 +6,7 @@
         <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
          <item name="android:windowSplashScreenIconBackgroundColor">@color/background</item>
         <item name="android:windowSplashScreenBrandingImage">@drawable/ic_branding</item>
-        
+
 
     </style>
 </resources>
