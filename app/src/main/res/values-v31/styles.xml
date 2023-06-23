@@ -3,10 +3,8 @@
 
     <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowSplashScreenBackground">@color/background</item>
-        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
-         <item name="android:windowSplashScreenIconBackgroundColor">@color/background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/ic_logo_splash</item>
         <item name="android:windowSplashScreenBrandingImage">@drawable/ic_branding</item>
-
 
     </style>
 </resources>
